@@ -22,7 +22,7 @@
             app:layout_constraintTop_toTopOf="parent"/>
 
     <ImageView
-            android:src="@android:drawable/ic_menu_add"
+
             android:id="@+id/button_previous"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
