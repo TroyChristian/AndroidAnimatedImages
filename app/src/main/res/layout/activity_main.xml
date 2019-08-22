@@ -10,7 +10,7 @@
 
     <ImageView
             android:id="@+id/animated_image"
-            android:src="@drawable/ic_launcher_background"
+            android:src="@drawable/unicorn"
             android:layout_width="wrap_content"
             android:paddingEnd="16dp"
             android:paddingStart="16dp"
