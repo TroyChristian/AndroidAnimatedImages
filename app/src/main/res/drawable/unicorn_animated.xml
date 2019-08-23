@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:drawable="@drawable/unicorn_frame01"  android:duration="33"/>
+ <item android:drawable="@drawable/unicorn_frame02" android:duration="33"/> 
+<item android:drawable = "@drawable/unicorn_frame03" android:duration="33"/>
+<item android:drawable = "@drawable/unicorn_frame04" android:duration="33"/>
+ <item android:drawable = "@drawable/unicorn_frame05" android:duration="33"/>
+<item android:drawable = "@drawable/unicorn_frame06" android:duration="33"/>
+<item android:drawable = "@drawable/unicorn_frame07" android:duration="33"/>
+<item android:drawable = "@drawable/unicorn_frame08" android:duration="33"/>
+<item android:drawable = "@drawable/unicorn_frame09" android:duration="33"/>
+<item android:drawable = "@drawable/unicorn_frame10" android:duration="33"/>
+ <item android:drawable = "@drawable/unicorn_frame11" android:duration="33"/>
+ <item android:drawable = "@drawable/unicorn_frame12" android:duration="33"/>
+ <item android:drawable = "@drawable/unicorn_frame13" android:duration = "33" />
+ <item android:drawable = "@drawable/unicorn_frame14" android:duration = "33"/>
+ <item android:drawable = "@drawable/unicorn_frame15" android:duration = "33"/>
+ <item android:drawable = "@drawable/unicorn_frame16" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame17" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame18" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame19" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame20" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame21" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame22" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame23" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame24" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame25" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame26" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame27" android:duration = "33"/>
+    <item android:drawable ="@drawable/unicorn_frame28" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame29" android:duration = "33"/>
+    <item android:drawable = "@drawable/unicorn_frame30" android:duration = "33"/>
+    
+
+
+</animation-list>
